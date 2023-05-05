@@ -4,5 +4,5 @@
 # Ausschließen von .i Dateien
 *.i
 
-# Ausschließen von .s Dateien 
-*.s
+# Ausschließen von .s Dateien
+*.s  
